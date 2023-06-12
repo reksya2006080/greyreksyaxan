@@ -1,1 +1,1 @@
-<img src="screenshot/bacaansholat_azharrivaldi.png" data-canonical-src="screenshot/bacaansholat_azharrivaldi.png" style="max-width:100%;">
+<img src="screenshot/SS.png" data-canonical-src="screenshot/SS.png" style="max-width:100%;">
