@@ -14,6 +14,11 @@ class _MainPageState extends State<MainPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        // Tambahkan AppBar di sini
+        backgroundColor: Color.fromARGB(255, 76, 136, 76),
+        title: Text('Bacaan sholat'),
+      ),
       backgroundColor: Color.fromARGB(255, 204, 227, 222),
       body: SafeArea(
         child: Center(

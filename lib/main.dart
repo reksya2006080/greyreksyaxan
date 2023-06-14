@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:bacaan_sholat/page/splash.dart';
+import 'package:bacaan_sholat/page/animated_splash_screen.dart';
 void main() {
   runApp(MyApp());
 }
